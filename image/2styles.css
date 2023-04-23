@@ -1,0 +1,34 @@
+h1 {
+    color: green;
+    font-size: 32px;
+    }
+    
+    div {
+    color: syria;
+    font-size: 22px;
+    background-color: yellow;
+    border: 2px solid orange;
+    }
+    
+    p {
+    color: blue;
+    }
+    
+    li {
+    color: purple;
+    font-size: 26px;
+    }
+    
+    img {
+    width: 400px;
+    height: 200px;
+    }
+    
+    span {
+    color: aqua;
+    border: 1px dotted hotpink;
+    }
+    
+    a {
+    color: red;
+    }
