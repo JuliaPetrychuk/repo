@@ -1,0 +1,17 @@
+h1 {
+    color: red
+}
+p {
+    color: grey
+}
+span {
+    color:pink
+}
+
+.lesson{
+    color:blueviolet
+}
+*{
+    margin: 15;
+    padding: 25;
+}
