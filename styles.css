@@ -1,17 +1,15 @@
-h1 {
-    color: red
-}
-p {
-    color: grey
-}
-span {
-    color:pink
-}
 
-.lesson{
-    color:blueviolet
+
+.flex-box {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
 }
-*{
-    margin: 15;
-    padding: 25;
+.block {
+    font-size: 36px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
 }
